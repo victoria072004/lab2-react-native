@@ -1,0 +1,10 @@
+[
+    { "id": 1, "name": "Cappuccino", "image": "https://t3.ftcdn.net/jpg/03/60/64/04/240_F_360640468_ZD6nIMvYQ9EEDiHDeZ9IGxLsZj914wcT.jpg" },
+    { "id": 2, "name": "Latte", "image": "https://t4.ftcdn.net/jpg/01/87/36/43/240_F_187364349_keY6JH8HIhm2nd6rFTU79sLMP7SZNK9x.jpg" },
+    { "id": 3, "name": "Espresso", "image": "https://t4.ftcdn.net/jpg/01/63/67/75/240_F_163677507_N2nnZqMbMgT4h7xlhSZI3qAqryLVGUNU.jpg" },
+    { "id": 4, "name": "Macchiato", "image": "https://t3.ftcdn.net/jpg/01/28/35/06/240_F_128350655_6EI2jVI2tx2saSSCp6VZKq23ev80MV5I.jpg" },
+    { "id": 5, "name": "Mocha", "image": "https://t4.ftcdn.net/jpg/03/77/05/77/240_F_377057713_K5iwmUmR5VsiNdUmyv7Z7FJ9mvewHBnR.jpg" },
+    { "id": 6, "name": "Americano", "image": "https://t3.ftcdn.net/jpg/14/78/80/28/240_F_1478802811_O43hIuYc21x9x5jI5gRup7LIOMvjblVc.jpg" },
+    { "id": 7, "name": "Flat White", "image": "https://t4.ftcdn.net/jpg/01/27/55/93/240_F_127559370_fphXJj9HD0abPo31ZkHPQKerlNQYoiFK.jpg" },
+    { "id": 8, "name": "Pumpkin Latte", "image": "https://t4.ftcdn.net/jpg/04/59/35/39/240_F_459353909_Z5q6NnEWcAzIgFoHdtIoLBYRFEbI5Faf.jpg" }
+]
